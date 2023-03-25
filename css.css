@@ -1,0 +1,44 @@
+body {
+	background-image: url("spoopy.png");
+	background-repeat: no-repeat;
+	background-size: 1930px 950px;
+	position: relative;
+	bottom: -165px;
+}
+
+h1 {
+	text-align: center;
+}
+
+.choco {
+	border: 2px solid;
+	border-radius: 5px;
+	text-align: center;
+	margin: 0px 900px 0px 900px;
+}
+
+.gummy {
+	border: 2px solid;
+	border-radius: 5px;
+	text-align: center;
+	margin: 0px 900px 0px 900px;
+}
+
+.loli {
+	border: 2px solid;
+	border-radius: 5px;
+	text-align: center;
+	margin: 0px 900px 0px 900px;
+}
+
+.most {
+	text-align: center;
+}
+
+.alpha {
+	text-align: center;
+}
+
+.time {
+	text-align: center;
+}
